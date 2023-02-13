@@ -1,0 +1,454 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    height: 120px;
+    background-color: #ffffff;
+    color: #000000;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+
+header h1 {
+    float: left;
+    margin-right: 220px;
+
+}
+
+header h1 a {
+    font-size: 20px;
+    color: #000000;
+    padding-left: 76px;
+    padding-top: 62px;
+    font-weight: bold;
+
+}
+
+header ul {
+    width: 560px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+
+
+}
+
+header ul a {
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+
+}
+
+
+header img {
+
+
+    display: flex;
+    width: 40px;
+}
+
+
+header p {
+    width: 186px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FDC72D;
+    border-radius: 60px;
+    padding: 12px 30px;
+    text-align: center;
+    margin-right: 80px;
+
+}
+
+.pirveligverdi {
+    display: flex;
+
+}
+
+.pirvelidiv {
+    width: 460px;
+    height: 260px;
+    margin-left: 60px;
+    margin-top: 168px;
+
+}
+
+
+.pirvelip {
+    font-size: 60px;
+    color: #000000;
+    font-weight: bold;
+
+}
+
+
+.meorep {
+    font-size: 20px;
+    color: #777776;
+}
+
+.gets {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FDC72D;
+    border-radius: 60px;
+    padding: 16px 32px;
+    text-align: center;
+    width: 180px;
+    margin-right: 89px;
+    margin-top: 52px;
+
+
+}
+
+.surati{
+    width: 880px;
+    height: 720px;
+    overflow: hidden;
+}
+
+.surati img {
+    width: 100%;
+}
+
+div.meoregverdi {
+    display: flex;
+}
+
+.sur {
+    width: 680px;
+    height: 500px;
+    overflow: hidden;
+    margin-left: 80px;
+}
+
+.mesamedivi img {
+    width: 100%;
+}
+
+.divtext {
+    margin-top: 200px;
+    width: 600px;
+    height: 506px;
+    margin-left: 100px;
+    margin-right: 77px;
+}
+
+
+.text {
+    width: 400px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.abzaci {
+    width: 400px;
+    font-size: 20px;
+    color: #777776;
+
+}
+
+.divtxt{
+    margin-left: 100px;
+    width: 600px;
+    height: 500px;
+
+}
+
+
+.textori{
+    width: 300px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.abzaciori {
+    width: 300px;
+    font-size: 20px;
+    color: #777776;
+    margin-bottom: 280px;
+}
+
+.suratiori {
+    width: 800px;
+    height: 500px;
+    overflow: hidden;
+
+}
+
+.suratiori img {
+    width: 100%;
+}
+
+.meoregverdisdivi {
+    display: flex;
+    margin-right: 101px;
+    margin-left: 95px;
+
+}
+
+h2 {text-align: center;
+
+}
+
+.Sat { width: 350px;
+    margin: 50px auto;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 80px;
+    
+}
+
+.artikli {
+    display: flex;
+}
+
+.statia {
+    width: 400px;
+    height: 400px;
+    border: #E0E0E0 solid 4px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 90px;
+}
+
+ h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 36px;
+}
+
+.pay {
+    width: 200px;
+    height: 120px;
+    overflow: hidden;
+    margin-left: 80px;
+}
+
+.pay img {
+    width: 100%;
+}
+
+.paytxt { width: 240px;
+    font-size: 14px;
+    color: #777776;
+    margin-left: 70px;
+    margin: 30px;
+    text-align: center;
+    padding-left: 60px;
+}
+
+.learnmore a {
+
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+    padding-left: 150px;
+
+}
+
+
+
+
+.mitana {
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+    margin-left: 90px;
+    margin-top: 160px;
+    margin-bottom: 150px;
+}
+
+.mitana img {
+    width: 100%;
+}
+
+.mitteksti {
+    width: 500px;
+    height: 500px;
+    margin-left: 200px;
+
+}
+
+.satsami {
+     width: 400px;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 200px;
+
+
+}
+
+
+.txtsami {
+    font-size: 20px;
+    color: #777776;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-right: 100px;
+
+
+}
+
+.app {
+    font-size: 16px;
+    font-weight: bolder;
+    background-color: #FDC72D;
+    border-radius: 60px;
+    padding: 12px 22px;
+    text-align: center;
+    width: 160px;
+    margin-right: 50px;
+}
+
+
+.aplikaciebi {
+    display: flex;
+}
+
+.servisebisdivi {
+    display: flex;
+}
+
+.divotxi{
+    display: flex;
+    margin-left: 80px;
+}
+
+.con {
+    width: 30%;
+    margin-top: 130px;
+
+}
+
+.contact {
+    width: 300px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.txtotxi{
+    font-size: 20px;
+    color: #777776;
+    margin-top: 30px;
+}
+
+.info {
+    margin-top: 90px;
+    margin-left: 120px;
+}
+
+.info p {
+    font-size: 20px;
+    color: #777776;
+    padding-top: 40px;
+}
+
+.info span {
+    color: #000000;
+    font-weight: bold;
+
+}
+
+
+
+.kontakti {
+    width: 400px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #FDC72D;
+    border-radius: 60px;
+    padding: 16px 32px;
+    text-align: center;
+    width: 180px;
+    margin-top: 200px;
+    margin-left: 200px;
+
+
+}
+
+.foot {
+    height: 460px;
+    background-color: #FEE395;
+    margin-top: 80px;
+    display: flex;
+
+}
+
+.foot div  {
+    width: 20%;
+    margin-top: 90px;
+    margin-left: 120px;
+}
+
+.del {
+    font-size: 20px;
+    font-weight: bold;
+    color: #070706;
+    margin-top: 12px;
+    padding: 30px;
+
+}
+
+
+
+
+.our {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.foot ul li {
+    padding-top: 8px;
+}
+
+.foot ul li a {
+    font-size: 12px;
+    color: #777776;
+
+
+}
+
+.compani {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.community {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.socialicons {
+    display: flex;
+    justify-content: space-between;
+    width: 100px;
+
+}
+
+.socialicons li a {
+    color: #000000;
+}
+
+.socialicons ul li a {
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
